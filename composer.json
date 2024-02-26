@@ -1,0 +1,11 @@
+{
+    "name": "k-pop-fan-4life/calendar",
+    "description": "A small library of utility to help generate calendars",
+    "license": "MIT",
+    "require": {
+        "php" : ">= 8.2"
+    },
+    "require-dev": {
+
+    }
+}
